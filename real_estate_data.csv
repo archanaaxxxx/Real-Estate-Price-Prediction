@@ -1,0 +1,101 @@
+Property_ID,Location,Area_sqft,Bedrooms,Bathrooms,Age,Parking,Furnished,Property_Type,Price
+1,Chennai,900,3,3,1,No,No,Apartment,8300000
+2,Bangalore,917,2,2,2,Yes,Semi,Villa,8126500
+3,Hyderabad,934,3,3,3,Yes,Yes,Independent House,8453000
+4,Coimbatore,951,3,3,4,No,No,Apartment,8529500
+5,Madurai,968,2,2,5,Yes,Semi,Villa,8356000
+6,Chennai,985,2,2,6,Yes,Yes,Independent House,8432500
+7,Bangalore,1002,3,3,7,No,No,Apartment,8759000
+8,Hyderabad,1019,4,4,8,Yes,Semi,Villa,9085500
+9,Coimbatore,1036,2,2,9,Yes,Yes,Independent House,8662000
+10,Madurai,1053,2,2,10,No,No,Apartment,8738500
+11,Chennai,1070,3,3,1,Yes,Semi,Villa,9065000
+12,Bangalore,1087,3,3,2,Yes,Yes,Independent House,9141500
+13,Hyderabad,1104,2,2,3,No,No,Apartment,8968000
+14,Coimbatore,1121,2,2,4,Yes,Semi,Villa,9044500
+15,Madurai,1138,4,4,5,Yes,Yes,Independent House,9621000
+16,Chennai,1155,3,3,6,No,No,Apartment,9447500
+17,Bangalore,1172,2,2,7,Yes,Semi,Villa,9274000
+18,Hyderabad,1189,2,2,8,Yes,Yes,Independent House,9350500
+19,Coimbatore,1206,3,3,9,No,No,Apartment,9677000
+20,Madurai,1223,3,3,10,Yes,Semi,Villa,9753500
+21,Chennai,1240,2,2,1,Yes,Yes,Independent House,9580000
+22,Bangalore,1257,3,3,2,No,No,Apartment,9906500
+23,Hyderabad,1274,3,3,3,Yes,Semi,Villa,9983000
+24,Coimbatore,1291,3,3,4,Yes,Yes,Independent House,10059500
+25,Madurai,1308,2,2,5,No,No,Apartment,9886000
+26,Chennai,1325,2,2,6,Yes,Semi,Villa,9962500
+27,Bangalore,1342,3,3,7,Yes,Yes,Independent House,10289000
+28,Hyderabad,1359,3,3,8,No,No,Apartment,10365500
+29,Coimbatore,1376,3,3,9,Yes,Semi,Villa,10442000
+30,Madurai,1393,2,2,10,Yes,Yes,Independent House,10268500
+31,Chennai,1410,3,3,1,No,No,Apartment,10595000
+32,Bangalore,1427,3,3,2,Yes,Semi,Villa,10671500
+33,Hyderabad,1444,2,2,3,Yes,Yes,Independent House,10498000
+34,Coimbatore,1461,2,2,4,No,No,Apartment,10574500
+35,Madurai,1478,3,3,5,Yes,Semi,Villa,10901000
+36,Chennai,1495,4,4,6,Yes,Yes,Independent House,11227500
+37,Bangalore,1512,2,2,7,No,No,Apartment,10804000
+38,Hyderabad,1529,2,2,8,Yes,Semi,Villa,10880500
+39,Coimbatore,1546,3,3,9,Yes,Yes,Independent House,11207000
+40,Madurai,1563,3,3,10,No,No,Apartment,11283500
+41,Chennai,1580,2,2,1,Yes,Semi,Villa,11110000
+42,Bangalore,1597,2,2,2,Yes,Yes,Independent House,11186500
+43,Hyderabad,1614,4,4,3,No,No,Apartment,11763000
+44,Coimbatore,1631,3,3,4,Yes,Semi,Villa,11589500
+45,Madurai,1648,2,2,5,Yes,Yes,Independent House,11416000
+46,Chennai,1665,2,2,6,No,No,Apartment,11492500
+47,Bangalore,1682,3,3,7,Yes,Semi,Villa,11819000
+48,Hyderabad,1699,3,3,8,Yes,Yes,Independent House,11895500
+49,Coimbatore,1716,2,2,9,No,No,Apartment,11722000
+50,Madurai,1733,3,3,10,Yes,Semi,Villa,12048500
+51,Chennai,1750,3,3,1,Yes,Yes,Independent House,12125000
+52,Bangalore,1767,3,3,2,No,No,Apartment,12201500
+53,Hyderabad,1784,2,2,3,Yes,Semi,Villa,12028000
+54,Coimbatore,1801,2,2,4,Yes,Yes,Independent House,12104500
+55,Madurai,1818,3,3,5,No,No,Apartment,12431000
+56,Chennai,1835,3,3,6,Yes,Semi,Villa,12507500
+57,Bangalore,1852,3,3,7,Yes,Yes,Independent House,12584000
+58,Hyderabad,1869,2,2,8,No,No,Apartment,12410500
+59,Coimbatore,1886,3,3,9,Yes,Semi,Villa,12737000
+60,Madurai,1903,3,3,10,Yes,Yes,Independent House,12813500
+61,Chennai,1920,2,2,1,No,No,Apartment,12640000
+62,Bangalore,1937,2,2,2,Yes,Semi,Villa,12716500
+63,Hyderabad,1954,3,3,3,Yes,Yes,Independent House,13043000
+64,Coimbatore,1971,4,4,4,No,No,Apartment,13369500
+65,Madurai,1988,2,2,5,Yes,Semi,Villa,12946000
+66,Chennai,2005,2,2,6,Yes,Yes,Independent House,13022500
+67,Bangalore,2022,3,3,7,No,No,Apartment,13349000
+68,Hyderabad,2039,3,3,8,Yes,Semi,Villa,13425500
+69,Coimbatore,2056,2,2,9,Yes,Yes,Independent House,13252000
+70,Madurai,2073,2,2,10,No,No,Apartment,13328500
+71,Chennai,2090,4,4,1,Yes,Semi,Villa,13905000
+72,Bangalore,2107,3,3,2,Yes,Yes,Independent House,13731500
+73,Hyderabad,2124,2,2,3,No,No,Apartment,13558000
+74,Coimbatore,2141,2,2,4,Yes,Semi,Villa,13634500
+75,Madurai,2158,3,3,5,Yes,Yes,Independent House,13961000
+76,Chennai,2175,3,3,6,No,No,Apartment,14037500
+77,Bangalore,2192,2,2,7,Yes,Semi,Villa,13864000
+78,Hyderabad,2209,3,3,8,Yes,Yes,Independent House,14190500
+79,Coimbatore,2226,3,3,9,No,No,Apartment,14267000
+80,Madurai,2243,3,3,10,Yes,Semi,Villa,14343500
+81,Chennai,2260,2,2,1,Yes,Yes,Independent House,14170000
+82,Bangalore,2277,2,2,2,No,No,Apartment,14246500
+83,Hyderabad,2294,3,3,3,Yes,Semi,Villa,14573000
+84,Coimbatore,2311,3,3,4,Yes,Yes,Independent House,14649500
+85,Madurai,2328,3,3,5,No,No,Apartment,14726000
+86,Chennai,2345,2,2,6,Yes,Semi,Villa,14552500
+87,Bangalore,2362,3,3,7,Yes,Yes,Independent House,14879000
+88,Hyderabad,2379,3,3,8,No,No,Apartment,14955500
+89,Coimbatore,2396,2,2,9,Yes,Semi,Villa,14782000
+90,Madurai,2413,2,2,10,Yes,Yes,Independent House,14858500
+91,Chennai,2430,3,3,1,No,No,Apartment,15185000
+92,Bangalore,2447,4,4,2,Yes,Semi,Villa,15511500
+93,Hyderabad,2464,2,2,3,Yes,Yes,Independent House,15088000
+94,Coimbatore,2481,2,2,4,No,No,Apartment,15164500
+95,Madurai,2498,3,3,5,Yes,Semi,Villa,15491000
+96,Chennai,915,3,3,6,Yes,Yes,Independent House,8367500
+97,Bangalore,932,2,2,7,No,No,Apartment,8194000
+98,Hyderabad,949,2,2,8,Yes,Semi,Villa,8270500
+99,Coimbatore,966,4,4,9,Yes,Yes,Independent House,8847000
+100,Madurai,983,3,3,10,No,No,Apartment,8673500
